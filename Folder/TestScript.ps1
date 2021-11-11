@@ -3,4 +3,4 @@ Param(
     $TestVariable
 )
 
-Write-Output $TestVariable
+Write-Output "$TestVariable"

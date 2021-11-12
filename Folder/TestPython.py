@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     response = ""
     try:
-      message = sys.argv[1]   
+      message = sys.argv[2]   
                 
       
     except Exception as e:
